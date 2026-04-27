@@ -1,0 +1,2 @@
+# myfirstdjangoproject
+My first repo
